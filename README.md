@@ -1,1 +1,1 @@
-# Loops-JavaScript
+# Loops JavaScript
